@@ -1,0 +1,6 @@
+@Backend_SkyService_HostAddress = http://localhost:5224
+
+GET {{Backend_SkyService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

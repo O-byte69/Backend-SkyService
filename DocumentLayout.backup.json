@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|c:\\users\\omda coralic\\source\\repos\\backend_skyservice\\backend_skyservice\\backend_skyservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|solutionrelative:backend_skyservice\\backend_skyservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|c:\\users\\omda coralic\\source\\repos\\backend_skyservice\\backend_skyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|solutionrelative:backend_skyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|c:\\users\\omda coralic\\source\\repos\\backend_skyservice\\backend_skyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|solutionrelative:backend_skyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|c:\\users\\omda coralic\\source\\repos\\backend_skyservice\\backend_skyservice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|solutionrelative:backend_skyservice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|c:\\users\\omda coralic\\source\\repos\\backend_skyservice\\backend_skyservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|solutionrelative:backend_skyservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|c:\\users\\omda coralic\\source\\repos\\backend_skyservice\\backend_skyservice\\data\\skyservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|solutionrelative:backend_skyservice\\data\\skyservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|c:\\users\\omda coralic\\source\\repos\\backend_skyservice\\backend_skyservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|solutionrelative:backend_skyservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|c:\\users\\omda coralic\\source\\repos\\backend_skyservice\\backend_skyservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|solutionrelative:backend_skyservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|c:\\users\\omda coralic\\source\\repos\\backend_skyservice\\backend_skyservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41856331-7932-49F1-AD57-726B98EE9308}|Backend_SkyService\\Backend_SkyService.csproj|solutionrelative:backend_skyservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SkyServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Data\\SkyServiceContext.cs",
+              "RelativeDocumentMoniker": "Backend_SkyService\\Data\\SkyServiceContext.cs",
+              "ToolTip": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Data\\SkyServiceContext.cs",
+              "RelativeToolTip": "Backend_SkyService\\Data\\SkyServiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:52:15.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend_SkyService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\appsettings.json",
+              "RelativeToolTip": "Backend_SkyService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T12:46:53.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Backend_SkyService\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Backend_SkyService\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:38:22.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Backend_SkyService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Models\\Order.cs",
+              "RelativeToolTip": "Backend_SkyService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:37:48.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Backend_SkyService\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Models\\Employee.cs",
+              "RelativeToolTip": "Backend_SkyService\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:37:35.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Backend_SkyService",
+              "DocumentMoniker": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Backend_SkyService.csproj",
+              "RelativeDocumentMoniker": "Backend_SkyService\\Backend_SkyService.csproj",
+              "ToolTip": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Backend_SkyService.csproj",
+              "RelativeToolTip": "Backend_SkyService\\Backend_SkyService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T12:37:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Backend_SkyService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Backend_SkyService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:36:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Backend_SkyService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Backend_SkyService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:36:16.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Program.cs",
+              "RelativeDocumentMoniker": "Backend_SkyService\\Program.cs",
+              "ToolTip": "C:\\Users\\Omda Coralic\\source\\repos\\Backend_SkyService\\Backend_SkyService\\Program.cs",
+              "RelativeToolTip": "Backend_SkyService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:34:48.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
